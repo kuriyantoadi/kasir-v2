@@ -1,0 +1,135 @@
+[20-Jul-2022 12:49:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 12:50:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 12:51:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 12:51:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 12:52:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 12:56:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 12:56:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 12:56:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 12:57:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 12:57:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 12:58:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 12:58:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 12:58:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 13:00:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 13:00:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 13:01:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 13:01:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 13:08:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 13:10:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[20-Jul-2022 13:10:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/satemera/public_html/pages/super_admin/ajax/ajax_keranjang.php on line 31
+[22-Nov-2022 23:47:16 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[22-Nov-2022 23:47:29 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[08-Dec-2022 13:09:40 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[08-Dec-2022 13:10:07 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[08-Dec-2022 13:12:59 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[08-Dec-2022 13:13:11 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[08-Dec-2022 13:13:35 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[08-Dec-2022 13:13:50 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[08-Dec-2022 13:14:12 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[09-Dec-2022 07:23:06 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[09-Dec-2022 07:23:19 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[09-Dec-2022 07:23:59 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[10-Dec-2022 23:59:27 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[11-Dec-2022 00:16:50 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[11-Dec-2022 00:37:10 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[21-Dec-2022 16:07:01 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[21-Dec-2022 16:07:56 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[26-Dec-2022 16:41:01 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[26-Dec-2022 16:42:22 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[26-Dec-2022 16:42:49 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[26-Dec-2022 16:43:22 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[26-Dec-2022 16:43:59 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[26-Dec-2022 17:03:32 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[26-Dec-2022 17:04:52 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[26-Dec-2022 17:05:31 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[26-Dec-2022 17:06:28 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[27-Dec-2022 16:15:51 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[23-Jan-2023 21:50:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[23-Jan-2023 21:57:42 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[23-Jan-2023 21:58:51 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[23-Jan-2023 21:59:17 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[30-Jan-2023 01:56:09 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[04-Feb-2023 00:06:40 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[04-Feb-2023 09:50:32 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[04-Feb-2023 09:50:48 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[04-Mar-2023 13:49:15 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[04-Mar-2023 13:49:49 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[05-May-2023 13:57:05 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[05-May-2023 13:57:13 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[05-May-2023 19:43:04 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[06-May-2023 10:58:11 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[06-May-2023 10:58:30 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[19-May-2023 01:45:45 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[28-May-2023 21:25:47 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[28-May-2023 21:26:10 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[28-May-2023 21:26:17 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[28-May-2023 21:26:20 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[28-May-2023 21:26:23 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[28-May-2023 21:26:37 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[28-May-2023 21:31:40 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[30-May-2023 14:20:38 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[05-Jun-2023 16:45:21 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[07-Jun-2023 08:38:54 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[07-Jun-2023 09:08:08 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34
+[07-Jun-2023 09:08:14 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/skripsiu/public_html/irhamsyah/pages/super_admin/ajax/ajax_keranjang.php on line 34

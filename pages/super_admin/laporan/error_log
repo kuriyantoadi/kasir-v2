@@ -1,0 +1,12 @@
+[21-Nov-2022 23:17:35 Asia/Jakarta] PHP Notice:  Undefined variable: tanggal in /home/skripsiu/public_html/irhamsyah/pages/super_admin/laporan/laporan_penjualan.php on line 121
+[21-Nov-2022 23:17:35 Asia/Jakarta] PHP Notice:  Undefined variable: tanggal in /home/skripsiu/public_html/irhamsyah/pages/super_admin/laporan/laporan_penjualan.php on line 130
+[28-May-2023 21:27:50 Asia/Jakarta] PHP Notice:  Undefined variable: tanggal in /home/skripsiu/public_html/irhamsyah/pages/super_admin/laporan/laporan_penjualan.php on line 121
+[28-May-2023 21:27:50 Asia/Jakarta] PHP Notice:  Undefined variable: tanggal in /home/skripsiu/public_html/irhamsyah/pages/super_admin/laporan/laporan_penjualan.php on line 130
+[10-Jun-2023 17:29:04 Asia/Jakarta] PHP Notice:  Undefined variable: new_bulan in /home/skripsiu/public_html/irhamsyah/pages/super_admin/laporan/laporan_uang_keluar_perhari.php on line 86
+[10-Jun-2023 17:29:04 Asia/Jakarta] PHP Notice:  Undefined variable: thn in /home/skripsiu/public_html/irhamsyah/pages/super_admin/laporan/laporan_uang_keluar_perhari.php on line 86
+[10-Jun-2023 17:29:09 Asia/Jakarta] PHP Notice:  Undefined variable: new_bulan in /home/skripsiu/public_html/irhamsyah/pages/super_admin/laporan/laporan_uang_keluar_perhari.php on line 86
+[10-Jun-2023 17:29:09 Asia/Jakarta] PHP Notice:  Undefined variable: thn in /home/skripsiu/public_html/irhamsyah/pages/super_admin/laporan/laporan_uang_keluar_perhari.php on line 86
+[10-Jun-2023 21:15:06 Asia/Jakarta] PHP Notice:  Undefined variable: tanggal in /home/skripsiu/public_html/irhamsyah/pages/super_admin/laporan/laporan_penjualan.php on line 121
+[10-Jun-2023 21:15:06 Asia/Jakarta] PHP Notice:  Undefined variable: tanggal in /home/skripsiu/public_html/irhamsyah/pages/super_admin/laporan/laporan_penjualan.php on line 130
+[10-Jun-2023 21:19:11 Asia/Jakarta] PHP Notice:  Undefined variable: new_bulan in /home/skripsiu/public_html/irhamsyah/pages/super_admin/laporan/laporan_uang_keluar_perhari.php on line 86
+[10-Jun-2023 21:19:11 Asia/Jakarta] PHP Notice:  Undefined variable: thn in /home/skripsiu/public_html/irhamsyah/pages/super_admin/laporan/laporan_uang_keluar_perhari.php on line 86
